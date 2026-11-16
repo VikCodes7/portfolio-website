@@ -2,7 +2,7 @@
 
 A modern, high-performance, dark-themed personal portfolio website built with **React**, **Vite**, and vanilla CSS. Designed for **R&D Software Developer** showcase with rich animations and interactive UI.
 
-🌐 **Live Demo:** [https://VikCodes7.github.io/portfolio/](https://VikCodes7.github.io/portfolio/)
+🌐 **Live Demo:** [https://VikCodes7.github.io/portfolio-website/](https://VikCodes7.github.io/portfolio-website/)
 
 ---
 
@@ -45,7 +45,7 @@ npm install
 npm run dev
 ```
 
-Visit `http://localhost:5173/portfolio/` in your browser.
+Visit `http://localhost:5173/portfolio-website/` in your browser.
 
 ---
 
