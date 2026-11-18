@@ -191,6 +191,17 @@
   transform: translateY(-2px);
 }
 
+.profile__btn--ghost {
+  color: var(--text-secondary);
+  background: transparent;
+  padding-left: 8px;
+  padding-right: 8px;
+}
+
+.profile__btn--ghost:hover {
+  color: var(--text-primary);
+}
+
 /* Code Block Visual */
 .profile__visual {
   animation: fadeInUp 0.8s ease-out 0.3s both;
